@@ -14,7 +14,7 @@ I created this project to hone my React skills by following tutorials on YouTube
 **Technologies Used:**
 
 - React
-- (Optional: Add any additional libraries used, e.g., React Hooks)
+
 
 **Running the Project:**
 
@@ -24,27 +24,6 @@ I created this project to hone my React skills by following tutorials on YouTube
 4. Start the development server: `npm start` (or `yarn start`)
 5. Open http://localhost:3000 (or the specified development port) in your browser.
 
-**Code Structure:**
-
-(Provide a brief overview of the main components and their functionalities, for example:)
-
-- `App.js`: The main application component that renders the meme generator interface.
-- `Meme.js` (or a similar component name): Handles the individual meme template with image, text input fields, and potentially other features.
-
-**Future Enhancements:**
-
-- Implement functionality to download or share generated memes.
-- Integrate with external APIs to fetch a wider range of meme templates.
-- Add advanced text editing features (font, size, color, positioning).
-
-**Learning Outcomes:**
-
-Through this project, I gained experience in the following React concepts:
-
-- Component creation and state management
-- User input handling and event listeners
-- Rendering dynamic content
-- (Optionally, list any specific concepts you learned)
 
 **Feel free to contribute!**
 
